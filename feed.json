@@ -1,0 +1,59 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Ledia",
+    "description": "",
+    "home_page_url": "https://ledia.be",
+    "feed_url": "https://ledia.be/feed.json",
+    "user_comment": "",
+    "icon": "https://ledia.be/media/website/logo.bmp",
+    "author": {
+        "name": "Jan Boons"
+    },
+    "items": [
+        {
+            "id": "https://ledia.be/ik-ben-directie-van-een-school.html",
+            "url": "https://ledia.be/ik-ben-directie-van-een-school.html",
+            "title": "Ik ben directie van een school en zoek&lt;ul&gt;&lt;li&gt;aanvangsbegeleiding voor beginnende leerkrachten&lt;/li&gt;&lt;li&gt;ondersteuning in beleid&lt;/li&gt;&lt;li&gt;lezing of workshop voor pedagogische studiedagen&lt;/li&gt;&lt;/ul&gt;",
+            "summary": "Aanvangsbegeleiding (aangevraagd door de school) Elke school kan voor de aanvangsbegeleiding van haar beginnende leerkrachten beroep doen op de uitgebreide&hellip;",
+            "content_html": "<h2>Aanvangsbegeleiding (aangevraagd door de school)</h2>\n<p>Elke school kan voor de aanvangsbegeleiding van haar beginnende leerkrachten beroep doen op de uitgebreide en kwalitatieve diensten van Ledia.</p>\n<ul>\n<li>Een inhoudelijk sterk en degelijk pakket</li>\n<li>Flexibel traject mogelijk: u bepaalt wanneer en hoeveel</li>\n<li>U betaalt de <strong>factuur</strong> uit werkingsmiddelen in plaats van lesuren.</li>\n</ul>\n<h3>Tarieven</h3>\n<p><em>(BTW incl.)</em></p>\n<ul>\n<li>In geval van een (semi-)structrurele samenwerking, vraag een offerte op maat.</li>\n</ul>\n<h2>Lezing of workshop in kader van verdere professionalisering</h2>\n<p>Indien u specifieke expertise zoekt voor uw pedagogische studiedag, bent u bij Ledia aan het juiste adres.</p>\n<h3>Tarieven</h3>\n<p><em>(BTW incl.)</em></p>\n<ul>\n<li>Voor een eenmalige inhoudelijke activiteit, vraag een offerte op maat.</li>\n</ul>\n<h2>Algemene beleidsondersteuning</h2>\n<p>U zoekt een partner om een project uit te werken, zoals een deel van het schoolwerkplan updaten, communicatie voeren rond nieuwe richtlijnen, …? Contacteer en wij informeren u eerlijk over de mogelijkheden.</p>\n<h3>Tarieven</h3>\n<p><em>(BTW incl.)</em></p>\n<ul>\n<li>Voor projectwerk, vraag een offerte op maat.</li>\n</ul>",
+            "image": "https://ledia.be/media/posts/3/foto-3.jpg",
+            "author": {
+                "name": "Jan Boons"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-11T19:35:04+01:00",
+            "date_modified": "2023-01-13T08:39:43+01:00"
+        },
+        {
+            "id": "https://ledia.be/ik-ben-een-beginnende-leerkracht.html",
+            "url": "https://ledia.be/ik-ben-een-beginnende-leerkracht.html",
+            "title": "Ik ben een beginnende leerkracht&lt;br&gt;en zoek AANVANGSBEGELEIDING op maat",
+            "summary": "Wat Studenten in de lerarenopleiding en beginnende leerkrachten kunnen individuele begeleiding op maat aanvragen, en dat voor alle onderdelen van&hellip;",
+            "content_html": "<h2>Wat</h2>\n<p>Studenten in de lerarenopleiding en beginnende leerkrachten kunnen individuele begeleiding op maat aanvragen, en dat voor alle onderdelen van het lesgeven.</p>\n<p>De <strong>‘traject-formule’ </strong>(standaard-begeleiding) bestaat idealiter uit drie halve dagen (met ongeveer een tweetal weken tussen) en telkens gefocust op één te geven les. Gedurende die halve dag (vier uren) wordt:</p>\n<ul>\n<li>de lesvoorbereiding overlopen,</li>\n<li>de les bijgewoond (in samenspraak met de school)</li>\n<li>de les volledig geanalyseerd op alle vlakken door middel van een groot scoreblad (voorbereiding, materiaal, opbouw, uitvoering, motivatie, klasbeheer, verwerving en verwerking, didactiek, medium, pedagogiek, …)</li>\n<li>drie doelen voor de volgende les uitgewerkt.</li>\n</ul>\n<p>Bij de ‘<strong>cherry-picking-formule</strong>’ kiest u zelf volledig à-la-carte, en bepaalt u:</p>\n<ul>\n<li>duur en frequentie (dat kan per uur)</li>\n<li>het specifieke doel (lesvoorbereiding, les-analyse, materiaal,…)</li>\n<li>op school, bij u thuis, via eenvideogesprek of bij Ledia / Overijse</li>\n</ul>\n<h2>Troeven</h2>\n<p>De drieledige top-ervaring van Jan Boons (Ledia):</p>\n<ul>\n<li>jaren eigen ervaring voor de klas</li>\n<li>zelf nog gedoceerd aan de lerarenopleiding</li>\n<li>meerdere jaren aanvangsbegeleiding verzorgd</li>\n</ul>\n<p>maakt dat u een zeer realistisch en sterk antwoord op uw vragen krijgt.</p>\n<h2>Tarieven</h2>\n<p><em>(BTW incl.)</em></p>\n<p>Traject-formule:     599€ (voor drie halve dagen)<br>Cherry-picking formule :   60€ per uur (steeds na offerte, waarin indien nodig ook tijd voor voorbereiding en naverwerking verrekend wordt).</p>\n<p>Verplaatsing: Met plezier verplaatsen wij ons in heel Vlaanderen. Per verplaatsing wordt een kleine kost aangerekend, berekend op basis van afstand en tijd, te rekenen vanaf Overijse.</p>",
+            "image": "https://ledia.be/media/posts/2/foto-2.jpeg",
+            "author": {
+                "name": "Jan Boons"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-11T19:34:17+01:00",
+            "date_modified": "2023-01-13T08:38:47+01:00"
+        },
+        {
+            "id": "https://ledia.be/ik-ben-een-ouder-van-een-leerling.html",
+            "url": "https://ledia.be/ik-ben-een-ouder-van-een-leerling.html",
+            "title": "Ik ben een ouder van een leerling&lt;br&gt;en zoek specifieke DIAGNOSTIEK",
+            "summary": "Wat Ledia formuleert antwoorden op vragen die voortkomen uit de leeromgeving, en wel op de volgende domeinen: Centraal staat een&hellip;",
+            "content_html": "<h2>Wat</h2>\n<p>Ledia formuleert antwoorden op vragen die voortkomen uit de leeromgeving, en wel op de volgende domeinen:</p>\n<ul>\n<li><strong>intelligentie, geheugen en aandacht</strong></li>\n<li><strong>leerproblemen (dyslexie, dyscalculie)</strong></li>\n<li><strong>persoonlijkheid / bredere diagnostiek.</strong></li>\n</ul>\n<p>Centraal staat een degelijke testing, aangevuld met gesprekken, observatie in de klas, overleg op school, … Wij doen dit voor leerlingen van 6 tot 18 jaar (niet voor kleuters).</p>\n<p>Heeft u bijkomende of specifieke vragen? <br>Vraag gerust na (+32 484 42 35 16) en we geven u eerlijk antwoord naar de mogelijkheden.</p>\n<h2>Troeven</h2>\n<p>Jan Boons (Ledia) combineert de psychodiagnostische expertise met twintig jaar eigen onderwijservaring, waardoor wij garant staan voor de <strong>brug</strong> tussen de testresultaten en de onderwijspraktijk.</p>\n<p>Een tweede troef is de <strong>flexibiliteit in de opvolging</strong> waar en hoe lang dat nodig is.</p>\n<h2>Tarieven</h2>\n<p><em>(BTW incl.)</em></p>\n<p>Grote intelligentietest (WISC):     199€<br>Non-verbale intelligentietest (Raven of SON):     119€</p>\n<p>Geheugen:     179€<br>Aandacht:     119€</p>\n<p>Dyslexie / dyscalculie (test):     119€<br>Attest:     70€</p>\n<p>Persoonlijkheid:     199€</p>\n<p>Overleg:     (à rato van) 60€ per uur</p>\n<p>Verplaatsing: Met plezier verplaatsen wij ons in heel Vlaanderen. Per verplaatsing wordt een kleine kost aangerekend, berekend op basis van afstand en tijd, te rekenen vanaf Overijse.</p>",
+            "image": "https://ledia.be/media/posts/1/foto-1.jpg",
+            "author": {
+                "name": "Jan Boons"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-01-11T19:18:54+01:00",
+            "date_modified": "2023-01-13T08:37:32+01:00"
+        }
+    ]
+}
