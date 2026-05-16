@@ -19,7 +19,7 @@
         <media:content url="https://ledia.be/media/posts/3/foto-3.jpg" medium="image" />
 
         <updated>2023-01-11T19:35:04+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://ledia.be/media/posts/3/foto-3.jpg" alt="" />
                     Aanvangsbegeleiding (aangevraagd door de school) Elke school kan voor de aanvangsbegeleiding van haar beginnende leerkrachten beroep doen op de uitgebreide&hellip;
@@ -67,7 +67,7 @@
         <media:content url="https://ledia.be/media/posts/2/foto-2.jpeg" medium="image" />
 
         <updated>2023-01-11T19:34:17+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://ledia.be/media/posts/2/foto-2.jpeg" alt="" />
                     Wat Studenten in de lerarenopleiding en beginnende leerkrachten kunnen individuele begeleiding op maat aanvragen, en dat voor alle onderdelen van&hellip;
@@ -116,7 +116,7 @@
         <media:content url="https://ledia.be/media/posts/1/foto-1.jpg" medium="image" />
 
         <updated>2023-01-11T19:18:54+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://ledia.be/media/posts/1/foto-1.jpg" alt="" />
                     Wat Ledia formuleert antwoorden op vragen die voortkomen uit de leeromgeving, en wel op de volgende domeinen: Centraal staat een&hellip;
